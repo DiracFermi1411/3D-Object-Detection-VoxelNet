@@ -1,3 +1,3 @@
-# 3D-Object-Detection (VoxelNet)
+# 3D-Object-Detection-VoxelNet
 
 Ongoing updates and improvements
